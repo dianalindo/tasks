@@ -10,7 +10,7 @@ def remover_duplicados (cadenas):
     
 
 
-lenguajes = ['Python', 'Java', 'JavaScript', 'Java', 'Java', 'python', 'c++', 'c', 'c++']
+lenguajes = ['a','b','c','d','e','f','g','h','i','a','b','c','c','h',]
 
 print(lenguajes)
 
